@@ -1,0 +1,34 @@
+{
+  "name": "angular-schema-form-price",
+  "authors": [
+    "s.mohsen.bazghandi <mohsen.bazghandi@gmail.com>"
+  ],
+  "version": "1.0.0",
+  "description": "this is for price type",
+  "main": [
+    "bootstrap-price.js"
+  ],
+  "keywords": [
+    "angular-schema-form",
+    "schema-form",
+    "form",
+    "json",
+    "json-schema",
+    "schema",
+    "price",
+    "sepreate digits"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/SMohsenBazghandi/angular-schema-form-price",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
